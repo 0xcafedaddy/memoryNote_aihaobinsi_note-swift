@@ -1,5 +1,5 @@
 # 速记笔记 swift 版本。
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://avatars2.githubusercontent.com/u/4476322?v=3&s=40)
 你曾经做过的笔记很久不看，还给老师了，现在，这款笔记app可以通过艾宾浩斯遗忘曲线提醒你回顾笔记，妈妈再也不用担心你忘记学会的知识了
 
 刚学ios开发半月，做一个demo试试,各种语法不是太熟悉，当然，功能不够完善，欢迎高手补充。
