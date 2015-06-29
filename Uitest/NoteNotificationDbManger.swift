@@ -143,10 +143,16 @@ class NoteNotificationDbManger{
     
     func insertNoteNotification(notification:NoteNotification){
         var alice: Query?
-        
-        if let rowid = self.noteNotifications.insert(noteId <- notification.noteId!,first <- notification.first!,second <- notification.second!,third <- notification.third!,forth <- notification.forth!,fifth <- notification.fifth!,six <- notification.six!,currentNoticieIndex <- notification.currentNoticieIndex!).rowid {
-            println("inserted id: \(rowid)")
+        if let  _currentIndex = notification.currentNoticieIndex{
+            if let rowid = self.noteNotifications.insert(noteId <- notification.noteId!,first <- notification.first!,second <- notification.second!,third <- notification.third!,forth <- notification.forth!,fifth <- notification.fifth!,six <- notification.six!,currentNoticieIndex <- notification.currentNoticieIndex!).rowid {
+                println("inserted id: \(rowid)")
+            }
+        }else{
+            if let rowid = self.noteNotifications.insert(noteId <- notification.noteId!,first <- notification.first!,second <- notification.second!,third <- notification.third!,forth <- notification.forth!,fifth <- notification.fifth!,six <- notification.six!,currentNoticieIndex <- 1).rowid {
+                println("inserted id: \(rowid)")
+            }
         }
+        
         
         
     }

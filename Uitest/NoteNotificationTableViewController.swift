@@ -46,6 +46,8 @@ class NoteNotificationTableViewController: UITableViewController {
             noteNotification?.second = timeDatas[1]
             noteNotification?.third = timeDatas[2]
             noteNotification?.forth = timeDatas[3]
+            noteNotification?.fifth = timeDatas[4]
+            noteNotification?.six = timeDatas[5]
             noteNotification?.currentNoticieIndex = 1//第一个记忆阶段没被触发
             
         }

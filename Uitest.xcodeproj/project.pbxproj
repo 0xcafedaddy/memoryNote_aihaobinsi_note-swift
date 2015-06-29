@@ -27,6 +27,13 @@
 		5F7F1FD91B3D86C5004142CB /* TimeUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7F1FD81B3D86C5004142CB /* TimeUtils.swift */; };
 		5F7F1FDB1B3DB3FF004142CB /* FileUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7F1FDA1B3DB3FF004142CB /* FileUtils.swift */; };
 		5FB791981B40F57A00066084 /* NotificationUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB791971B40F57A00066084 /* NotificationUtils.swift */; };
+		5FB791A11B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 上午11.23.53.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FB7919A1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 上午11.23.53.png */; };
+		5FB791A21B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.15.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FB7919B1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.15.png */; };
+		5FB791A31B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.48.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FB7919C1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.48.png */; };
+		5FB791A41B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.54.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FB7919D1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.54.png */; };
+		5FB791A51B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.50.58.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FB7919E1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.50.58.png */; };
+		5FB791A61B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.51.13.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FB7919F1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.51.13.png */; };
+		5FB791A71B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.51.37.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FB791A01B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.51.37.png */; };
 		5FC439D81B37CAF5000BE068 /* NoteTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FC439D71B37CAF5000BE068 /* NoteTableViewCell.swift */; };
 		5FC439DA1B3921F6000BE068 /* NoteDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FC439D91B3921F6000BE068 /* NoteDetailViewController.swift */; };
 		5FC439E31B398910000BE068 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FC439E21B398910000BE068 /* Note.swift */; };
@@ -73,6 +80,13 @@
 		5F7F1FD81B3D86C5004142CB /* TimeUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimeUtils.swift; sourceTree = "<group>"; };
 		5F7F1FDA1B3DB3FF004142CB /* FileUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileUtils.swift; sourceTree = "<group>"; };
 		5FB791971B40F57A00066084 /* NotificationUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotificationUtils.swift; sourceTree = "<group>"; };
+		5FB7919A1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 上午11.23.53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen Shot 2015年6月29日 上午11.23.53.png"; sourceTree = "<group>"; };
+		5FB7919B1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen Shot 2015年6月29日 下午3.39.15.png"; sourceTree = "<group>"; };
+		5FB7919C1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen Shot 2015年6月29日 下午3.39.48.png"; sourceTree = "<group>"; };
+		5FB7919D1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen Shot 2015年6月29日 下午3.39.54.png"; sourceTree = "<group>"; };
+		5FB7919E1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.50.58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen Shot 2015年6月29日 下午3.50.58.png"; sourceTree = "<group>"; };
+		5FB7919F1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.51.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen Shot 2015年6月29日 下午3.51.13.png"; sourceTree = "<group>"; };
+		5FB791A01B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.51.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen Shot 2015年6月29日 下午3.51.37.png"; sourceTree = "<group>"; };
 		5FC439D71B37CAF5000BE068 /* NoteTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoteTableViewCell.swift; sourceTree = "<group>"; };
 		5FC439D91B3921F6000BE068 /* NoteDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoteDetailViewController.swift; sourceTree = "<group>"; };
 		5FC439E21B398910000BE068 /* Note.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
@@ -101,6 +115,7 @@
 		5F2C58841B2ACED800FB737E = {
 			isa = PBXGroup;
 			children = (
+				5FB791991B4130A900066084 /* screenShot */,
 				5F7F1FD11B3CED1A004142CB /* MyPlayground.playground */,
 				5F794DC01B3AAE3B00AA0D05 /* Podfile */,
 				5F2C588F1B2ACED800FB737E /* Uitest */,
@@ -186,6 +201,20 @@
 				5FB791971B40F57A00066084 /* NotificationUtils.swift */,
 			);
 			name = utils;
+			sourceTree = "<group>";
+		};
+		5FB791991B4130A900066084 /* screenShot */ = {
+			isa = PBXGroup;
+			children = (
+				5FB7919A1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 上午11.23.53.png */,
+				5FB7919B1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.15.png */,
+				5FB7919C1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.48.png */,
+				5FB7919D1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.54.png */,
+				5FB7919E1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.50.58.png */,
+				5FB7919F1B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.51.13.png */,
+				5FB791A01B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.51.37.png */,
+			);
+			name = screenShot;
 			sourceTree = "<group>";
 		};
 		5FC439E41B398F8F000BE068 /* Model */ = {
@@ -322,10 +351,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5FB791A61B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.51.13.png in Resources */,
+				5FB791A11B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 上午11.23.53.png in Resources */,
 				5F2C58981B2ACED800FB737E /* Main.storyboard in Resources */,
 				5F2C589D1B2ACED800FB737E /* LaunchScreen.xib in Resources */,
 				5F794DC11B3AAE3B00AA0D05 /* Podfile in Resources */,
+				5FB791A71B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.51.37.png in Resources */,
+				5FB791A21B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.15.png in Resources */,
+				5FB791A31B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.48.png in Resources */,
 				5F2C589A1B2ACED800FB737E /* Images.xcassets in Resources */,
+				5FB791A41B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.39.54.png in Resources */,
+				5FB791A51B4130DD00066084 /* iOS Simulator Screen Shot 2015年6月29日 下午3.50.58.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
