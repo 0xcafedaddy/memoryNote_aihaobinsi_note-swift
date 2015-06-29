@@ -1,0 +1,26 @@
+PODS:
+  - RichEditorView (1.2.0)
+  - SQLite.swift (0.1.0.pre):
+    - SQLite.swift/Library (= 0.1.0.pre)
+  - SQLite.swift/Core (0.1.0.pre)
+  - SQLite.swift/Library (0.1.0.pre):
+    - SQLite.swift/Core
+
+DEPENDENCIES:
+  - RichEditorView
+  - SQLite.swift (from `https://github.com/stephencelis/SQLite.swift.git`)
+
+EXTERNAL SOURCES:
+  SQLite.swift:
+    :git: https://github.com/stephencelis/SQLite.swift.git
+
+CHECKOUT OPTIONS:
+  SQLite.swift:
+    :commit: fde8c3391b265eb34b6407e3665160fb981b6857
+    :git: https://github.com/stephencelis/SQLite.swift.git
+
+SPEC CHECKSUMS:
+  RichEditorView: 7eca92756685c5968917a9df23b7588e97ca1769
+  SQLite.swift: 6e05cc2b8efb0e91911e9cfb93551dd682b25843
+
+COCOAPODS: 0.37.2
